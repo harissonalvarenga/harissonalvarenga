@@ -1,2 +1,2 @@
 print('oi')
-print()
+print('tchau')
